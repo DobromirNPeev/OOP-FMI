@@ -1,0 +1,6 @@
+﻿  Company.cpp
+D:\VS OOP\prac 13\prac 13\Company.cpp(128,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\VS OOP\prac 13\prac 13\Company.cpp(132,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  prac 13.cpp
+  Generating Code...
+  prac 13.vcxproj -> D:\VS OOP\prac 13\x64\Debug\prac 13.exe

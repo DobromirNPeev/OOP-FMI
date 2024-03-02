@@ -1,0 +1,9 @@
+﻿  Intersection.cpp
+  fileOperations.cpp
+  oop dr 3.cpp
+D:\VS OOP\oop dr 3\oop dr 3\oop dr 3.cpp(30,5): warning C4286: 'std::invalid_argument &': is caught by base class ('std::logic_error &') on line 26
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 258 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  oop dr 3.vcxproj -> D:\VS OOP\oop dr 3\Release\oop dr 3.exe

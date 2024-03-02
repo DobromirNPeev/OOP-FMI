@@ -1,0 +1,13 @@
+﻿  Tablecpp.cpp
+D:\VS OOP\oop dr task 1\oop dr 1\Tablecpp.cpp(43,58): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\VS OOP\oop dr task 1\oop dr 1\Tablecpp.cpp(63,52): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\VS OOP\oop dr task 1\oop dr 1\Tablecpp.cpp(129,39): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\VS OOP\oop dr task 1\oop dr 1\Tablecpp.cpp(227,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\VS OOP\oop dr task 1\oop dr 1\Tablecpp.cpp(241,48): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\VS OOP\oop dr task 1\oop dr 1\Tablecpp.cpp(262,79): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\VS OOP\oop dr task 1\oop dr 1\Tablecpp.cpp(279,62): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\VS OOP\oop dr task 1\oop dr 1\Tablecpp.cpp(320,29): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\VS OOP\oop dr task 1\oop dr 1\Tablecpp.cpp(477,23): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  oop dr 1.cpp
+  Generating Code...
+  oop dr 1.vcxproj -> D:\VS OOP\oop dr task 1\x64\Debug\oop dr 1.exe

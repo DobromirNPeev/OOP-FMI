@@ -1,0 +1,5 @@
+﻿  sipracoop3.cpp
+D:\VS OOP\sipracoop3\sipracoop3\sipracoop3.cpp(18,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\VS OOP\sipracoop3\sipracoop3\sipracoop3.cpp(20,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\VS OOP\sipracoop3\sipracoop3\sipracoop3.cpp(134,20): warning C4018: '>': signed/unsigned mismatch
+  sipracoop3.vcxproj -> D:\VS OOP\sipracoop3\x64\Debug\sipracoop3.exe

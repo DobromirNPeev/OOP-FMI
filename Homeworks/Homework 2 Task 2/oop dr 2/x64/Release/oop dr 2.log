@@ -1,0 +1,13 @@
+﻿  MyString.cpp
+D:\VS OOP\oop dr 2\oop dr 2\MyString.h(3,31): warning C4081: expected 'newline'; found ';'
+  NumberToString.cpp
+  oop dr 2.cpp
+D:\VS OOP\oop dr 2\oop dr 2\MyString.h(3,31): warning C4081: expected 'newline'; found ';'
+  StringPiece.cpp
+  StringPieces.cpp
+D:\VS OOP\oop dr 2\oop dr 2\MyString.h(3,31): warning C4081: expected 'newline'; found ';'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 52 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  oop dr 2.vcxproj -> D:\VS OOP\oop dr 2\x64\Release\oop dr 2.exe

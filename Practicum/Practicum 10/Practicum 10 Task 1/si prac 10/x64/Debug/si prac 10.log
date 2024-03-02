@@ -1,0 +1,6 @@
+﻿  MyString.cpp
+D:\VS OOP\si prac 10\si prac 10\MyString.cpp(19,73): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+D:\VS OOP\si prac 10\si prac 10\MyString.cpp(135,72): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+  si prac 10.cpp
+  Generating Code...
+  si prac 10.vcxproj -> D:\VS OOP\si prac 10\x64\Debug\si prac 10.exe

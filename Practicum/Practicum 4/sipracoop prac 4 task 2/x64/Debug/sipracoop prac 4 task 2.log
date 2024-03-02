@@ -1,0 +1,5 @@
+﻿  sipracoop prac 4 task 2.cpp
+D:\VS OOP\siprac\sipracoop prac 4 task 2\sipracoop prac 4 task 2.cpp(110,20): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\VS OOP\siprac\sipracoop prac 4 task 2\sipracoop prac 4 task 2.cpp(112,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\VS OOP\siprac\sipracoop prac 4 task 2\sipracoop prac 4 task 2.cpp(175,43): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  sipracoop prac 4 task 2.vcxproj -> D:\VS OOP\siprac\x64\Debug\sipracoop prac 4 task 2.exe

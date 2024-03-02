@@ -1,0 +1,18 @@
+﻿  oop dr 3 task2.cpp
+D:\VS OOP\oop dr 3 task2\oop dr 3 task2\PriorityQueue.hpp(53,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\VS OOP\oop dr 3 task2\oop dr 3 task2\PriorityQueue.hpp(51,30): message : while compiling class template member function 'void PriorityQueue<char>::pop(void)'
+D:\VS OOP\oop dr 3 task2\oop dr 3 task2\oop dr 3 task2.cpp(21,10): message : see reference to function template instantiation 'void PriorityQueue<char>::pop(void)' being compiled
+D:\VS OOP\oop dr 3 task2\oop dr 3 task2\oop dr 3 task2.cpp(7,31): message : see reference to class template instantiation 'PriorityQueue<char>' being compiled
+D:\VS OOP\oop dr 3 task2\oop dr 3 task2\PriorityQueue.hpp(43,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\VS OOP\oop dr 3 task2\oop dr 3 task2\PriorityQueue.hpp(42,41): message : while compiling class template member function 'const T &PriorityQueue<T>::peek(void) const'
+          with
+          [
+              T=char
+          ]
+D:\VS OOP\oop dr 3 task2\oop dr 3 task2\oop dr 3 task2.cpp(20,27): message : see reference to function template instantiation 'const T &PriorityQueue<T>::peek(void) const' being compiled
+          with
+          [
+              T=char
+          ]
+D:\VS OOP\oop dr 3 task2\oop dr 3 task2\PriorityQueue.hpp(49): warning C4715: 'PriorityQueue<char>::peek': not all control paths return a value
+  oop dr 3 task2.vcxproj -> D:\VS OOP\oop dr 3 task2\x64\Debug\oop dr 3 task2.exe
